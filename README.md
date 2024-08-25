@@ -23,13 +23,11 @@ PromptoPia is an open-source AI prompting tool that allows users to discover, cr
 ```
 git clone https://github.com/yourusername/PromptoPia.git
 cd PromptoPia
-
 ```
 
 2. Install dependencies : 
 ```
 npm install
-
 ```
 
 3. Create a .env file in the root directory and add your environment variables :
@@ -39,11 +37,9 @@ NEXTAUTH_URL=http://localhost:3000
 NEXTAUTH_SECRET=your_nextauth_secret
 GOOGLE_ID=google_id
 GOOGLE_CLIENT_SECRET=google_client_secret_key
-
 ```
 
 4. Run the development server :
 ```
 npm run dev
-
 ```
