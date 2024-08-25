@@ -1,7 +1,6 @@
 # Promptopia 
 
 PromptoPia is an open-source AI prompting tool that allows users to discover, create, and share creative prompts. It provides a personalized profile page where users can manage their prompts
-(https://github.com/BhupeshChaudhari/promptopia/blob/main/Screenshot%20(396).png)
 ## Features
 
 - **User Authentication :** Secure user sign-up and login using NextAuth.js.
