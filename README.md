@@ -17,7 +17,7 @@ PromptoPia is an open-source AI prompting tool that allows users to discover, cr
 - **MongoDB**
 - **Tailwind CSS**
 
-### Steps
+## Steps :
 
 1. Clone the repository :
 ```
